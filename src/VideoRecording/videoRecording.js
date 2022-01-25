@@ -254,7 +254,7 @@ class videoRecording extends Component {
             alignItems: 'center',
             borderRadius: 8,
           }}>
-          <Text onPress={() => this.highRecordVideo()}>High Quality</Text>
+          <Text onPress={() => this.highRecordVideo()}>High Quality2</Text>
         </TouchableHighlight>
       </View>
     );
